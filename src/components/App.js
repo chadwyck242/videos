@@ -1,4 +1,5 @@
 import React from "react";
+import "./App.css";
 import SearchBar from "./SearchBar";
 import youtube from "../apis/youtube";
 import VideoList from "./VideoList";

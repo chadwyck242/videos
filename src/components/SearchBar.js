@@ -17,7 +17,7 @@ class SearchBar extends React.Component {
 
   render() {
     return (
-      <div className="search-bar ui segment inverted">
+      <div className="search-bar ui inverted segment">
         <form onSubmit={this.onFormSubmit} className="ui form">
           <div className="field">
             <label className="ui medium top left attached label teal">

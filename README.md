@@ -8,7 +8,6 @@ Videos app is mainly a YouTube Data API demonstration app, which provides a sear
 * We looked further at application **Component Design**, including standard ways to create project folders and when to decide another component is required.
 * Third look at how to use **APIs** in React in this course, in this case image data from the YouTube Data API which can be found here: [YouTube Data API](https://developers.google.com/youtube/v3/getting-started).
 * Used the **CSS Grid** layout for a responsive image grid, and learned how to dynamically set some properties of the grid using React.
-* An introduction to **Axios** as a preferred package to work with API's.
 * Had chance to practice even more on the props system and the concepts of the component hierarchy, with parent and child components, and how data and methods are passed down and back up. In general from my understanding props are how we can pass data and functions down to child components, and callback functions give us a good way to pass data back from child components to parents. 
 
 ### Other Videos App Info

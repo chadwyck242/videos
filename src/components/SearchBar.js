@@ -1,8 +1,10 @@
 import React from "react";
-
+// this will be a class based component
 class SearchBar extends React.Component {
+  // state will be a search term
   state = { term: "" };
 
+  // update the state as user is typing in the search input
   onInputChange = event => {
     this.setState({ term: event.target.value });
   };
